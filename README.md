@@ -1,2 +1,3 @@
-# timetable
-A javascript based timetable maker
+# React + TypeScript + Vite
+
+React Table
