@@ -1,3 +1,3 @@
-# React + TypeScript + Vite
+# React + Vite
 
-React Table
+React based dynamic timetable maker
